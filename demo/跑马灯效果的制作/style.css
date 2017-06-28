@@ -1,0 +1,11 @@
+body{
+    background-color: #FFFFFF; 
+}
+input{
+    background: transparent;
+    border: none;
+    color: #ffb400;
+    font-size: 45px;
+    font-weight: bold;
+    font-family: 黑体;
+}

@@ -1,0 +1,10 @@
+#screen{
+    position: absolute;
+    left: 350px;
+    top: 100px;
+    visibility: visible;
+}    
+img{
+    height: 450px;
+    width: 500px;
+}

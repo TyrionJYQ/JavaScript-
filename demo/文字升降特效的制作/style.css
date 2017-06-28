@@ -1,0 +1,12 @@
+#napis {
+    position: absolute;
+    top: -50;
+    color: #000000;
+    font-family: 宋体;
+    font-size: 9pt;
+    border: 1px #ddeecc solid;
+}
+#napis a {
+    font-size: 12px;
+    text-decoration: none;
+}
