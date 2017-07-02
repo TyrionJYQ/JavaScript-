@@ -1,0 +1,3 @@
+1.报错addEventListener;
+2.节点操作(节点以及子节点);
+3.addEvent与addEventListener;

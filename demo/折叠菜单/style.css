@@ -1,0 +1,46 @@
+body {
+    margin: 0;
+    padding: 0;
+    font: 12px/1.5 Tahoma,Helvetica,Arial,sans-serif;
+}
+ul li {
+    margin: 0;
+    padding: 0;
+}
+ul {
+    list-style: none;
+}
+#menu_zzjs_net {
+    margin: 10px;
+    width: 200px;
+    overflow: hidden;
+
+}
+#menu_zzjs_net li {
+    line-height: 25px;
+
+}
+#menu_zzjs_net .rem {
+    padding-left: 19px;
+}
+#menu_zzjs_net .add {
+    background: url() -4px -31px no-repeat;
+}
+#menu_zzjs_net .ren {
+    background: url() -4px -7px no-repeat;
+}
+/*menu_zzjs_net li a {
+    color: #666666;
+    padding-left: 5px;
+    outline: none;
+    blur:expression(this.onFocus=this.blur());
+}*/
+#menu_zzjs_net li input{
+    vertical-align: middle;
+    margin-left: 5px;
+}
+#menu_zzjs_net .two {
+    padding-left:  20px;
+    display: none;
+}
+
